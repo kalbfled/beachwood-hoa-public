@@ -4,7 +4,7 @@ This is the website for the Beachwood subdivision of Wake County, NC.  This webs
 
 ## Announcements
 
-Our next membership meeting will occur during the latter half of May 2025.  Details pending.
+Our next membership meeting will occur on 9 June 2025.  Details pending.
 
 ## Contact Information
 
@@ -34,3 +34,8 @@ The HOA is a NC not-for-profit entity.  The board members are:
 - Mohammed Hazin
 
 The 5th board seat and Vice President position is currently vacant.
+
+### Links for board members
+
+- [Status board](https://github.com/users/kalbfled/projects/1)
+- [Knowledge repository](https://github.com/kalbfled/beachwood-hoa)
