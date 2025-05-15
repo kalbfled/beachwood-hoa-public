@@ -4,7 +4,7 @@ Our next membership meeting will occur on **9 June 2025**, **6:30-8:30pm**, in t
 
 We conduct membership meetings in accordance with our bylaws and [Robert's Rules of Order](https://www.boardeffect.com/blog/roberts-rules-of-order-cheat-sheet/).  Please familiarize yourself with Robert's Rules if you plan to attend the meeting.
 
-We will elect 3 board members at the June 9th meeting.  The board has one vacant seat, and the seats currently held by Susan Basien and Perri Davenport are up for election.  Susan and Perri are both willing to continue serving.
+We will elect 3 board members at the June 9th meeting.  The board has one vacant seat, and the seats currently held by Susan Bastien and Perri Davenport are up for election.  Susan and Perri are both willing to continue serving.
 
 ### Agenda
 
