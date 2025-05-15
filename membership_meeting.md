@@ -31,7 +31,7 @@ Values are approximate, and the HOA is still retrieving assets from our outgoing
 
 | Asset | Liability | Income | Expense | 9 June - 31 December 2025 ($) |
 |-|-|-|-|-|
-| Checking | | | 24,598 |
+| Checking | | | | 24,598 |
 | Edward Jones account | | | | 10,000 |
 | MEMBERS' EQUITY BEGINNING | | | | 34,598 |
 | | | 2025 dues AC | | 0 |
