@@ -1,3 +1,5 @@
+![Beachwood duck logo](Beachwood_logo.jpg)
+
 ## Beachwood Homeowners Association, Inc.
 
 This is the website for the Beachwood subdivision of Wake County, NC.  This website, the occasional mailing, and the e-mail address below are the only official communication channels for our HOA.  We do not use any "social media" site, and we do not deploy newsletters around the neighborhood.
