@@ -34,7 +34,7 @@ Values are approximate, and the HOA is still retrieving assets from our outgoing
 | Checking | | | | 24,598 |
 | Edward Jones account | | | | 10,000 |
 | MEMBERS' EQUITY BEGINNING | | | | 34,598 |
-| | | 2025 dues AC | | 0 |
+| | | 2025 dues AR | | 0 |
 | | | | landscaping | (6,250) |
 | | | | fig buttercup | (1,000) |
 | | | | Duke Energy (1) | (500) |
@@ -44,7 +44,7 @@ Values are approximate, and the HOA is still retrieving assets from our outgoing
 | | | | admin (2) | (200) |
 | MEMBERS' EQUITY ENDING | | | | 18,148 |
 
-AC = accounts receivable
+AR = accounts receivable
 
 Notes
 
