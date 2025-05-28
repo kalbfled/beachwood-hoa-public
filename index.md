@@ -12,6 +12,8 @@ Our next membership meeting will occur on **9 June 2025**.
 
 ## Contact Information
 
+Please use this for all HOA correspondence.
+
 ### E-mail
 
 beachwood.hoa.inc@gmail.com
@@ -21,6 +23,10 @@ beachwood.hoa.inc@gmail.com
 Beachwood Homeowners Association, Inc.<br>
 P.O. Box 1198<br>
 Knightdale, NC 27545
+
+## HOA dues
+
+The assessment for 2025 is $243.  Please send a check or money order payable to "Beachwood Homeowners Association, Inc." to the above mailing address.  The HOA is not currently accepting online payments, but that will become an option again in the not distant future.
 
 ## Documents and Records
 
