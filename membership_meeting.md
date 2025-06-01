@@ -27,14 +27,13 @@ If you would like to delegate your voting power, please e-mail the board your na
 
 ### Budget
 
-Values are approximate, and the HOA is still retrieving assets from our outgoing management company.  These numbers will be finalized during the week preceeding the meeting.
+For years, our former contracted property manager stashed money in a "replacement fund" separate from the operating funds, and now the HOA has an excessive surplus.  Most of the current board members did not know of the existence of this fund until March 2025.  Expect lower&mdash;possibly zero&mdash;dues in 2026 as we spend down this surplus.
 
 | Asset | Liability | Income | Expense | 9 June - 31 December 2025 ($) |
 |-|-|-|-|-|
-| Checking | | | | 24,598 |
-| Edward Jones account | | | | 10,000 |
-| MEMBERS' EQUITY BEGINNING | | | | 34,598 |
-| | | 2025 dues AR | | 0 |
+| Checking | | | | 31,188 |
+| MEMBERS' EQUITY BEGINNING | | | | 31,188 |
+| | | 2025 dues AR | | 11,200 |
 | | | | landscaping | (6,250) |
 | | | | fig buttercup | (1,000) |
 | | | | Duke Energy (1) | (500) |
@@ -42,7 +41,7 @@ Values are approximate, and the HOA is still retrieving assets from our outgoing
 | | | | tree removal | (5,000) |
 | | | | playground grate | (2,000) |
 | | | | admin (2) | (200) |
-| MEMBERS' EQUITY ENDING | | | | 18,148 |
+| MEMBERS' EQUITY ENDING | | | | 26,438 |
 
 AR = accounts receivable
 
