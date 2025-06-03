@@ -6,7 +6,7 @@ This is the website for the Beachwood subdivision of Wake County, NC.  This webs
 
 ## Membership meeting
 
-Our next membership meeting will occur on **9 June 2025**.
+Our next membership meeting will occur on **9 June 2025**.  Notice of the meeting was mailed on May 22nd.
 
 - [meeting details](membership_meeting.md)
 
@@ -30,7 +30,7 @@ The assessment for 2025 is $243.  Please send a check or money order payable to 
 
 ## Documents and Records
 
-The board is in the process of retrieving documents from our outgoing property manager.  All public documents, including board meeting minutes, should be available by the end of May 2025.
+The board is in the process of retrieving documents from our outgoing property manager.  All public documents, including board meeting minutes, should be available soon.
 
 - [Beachwood HOA public Google Drive](https://drive.google.com/drive/folders/1_-tm8V_nUE70x1_UTEimFcTi776MbLtS?usp=sharing)
 
