@@ -27,7 +27,7 @@ If you would like to delegate your voting power, please e-mail the board your na
 
 ### Budget
 
-For years, our former contracted property manager stashed money in a "replacement fund" separate from the operating funds, and now the HOA has an excessive surplus.  Most of the current board members did not know of the existence of this fund until March 2025.  Expect lower&mdash;possibly zero&mdash;dues in 2026 as we spend down this surplus.
+The HOA has an excessive surplus.  Expect lower&mdash;possibly zero&mdash;dues in 2026 as we spend down this surplus.
 
 | Asset | Liability | Income | Expense | 9 June - 31 December 2025 ($) |
 |-|-|-|-|-|
