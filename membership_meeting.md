@@ -31,8 +31,8 @@ The HOA has an excessive surplus.  Expect lower&mdash;possibly zero&mdash;dues i
 
 | Asset | Liability | Income | Expense | 9 June - 31 December 2025 ($) |
 |-|-|-|-|-|
-| Checking | | | | 31,188 |
-| MEMBERS' EQUITY BEGINNING | | | | 31,188 |
+| Checking | | | | 35,338 |
+| MEMBERS' EQUITY BEGINNING | | | | 35,338 |
 | | | 2025 dues AR | | 11,200 |
 | | | | landscaping | (6,250) |
 | | | | fig buttercup | (1,000) |
@@ -41,7 +41,7 @@ The HOA has an excessive surplus.  Expect lower&mdash;possibly zero&mdash;dues i
 | | | | tree removal | (5,000) |
 | | | | playground grate | (2,000) |
 | | | | admin (2) | (200) |
-| MEMBERS' EQUITY ENDING | | | | 26,438 |
+| MEMBERS' EQUITY ENDING | | | | 30,088 |
 
 AR = accounts receivable
 
