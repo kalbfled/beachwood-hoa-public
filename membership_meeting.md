@@ -8,17 +8,15 @@ We will elect 3 board members at the June 9th meeting.  The board has one vacant
 
 ### Agenda
 
-This schedule is tentative and will be finalized during the week preceeding the meeting.  If you would like time to speak to your neighbors about a specific issue, please contact the board as soon as possible.  We will alot time according to the number of people who want to speak.
-
 We have hard start and stop times dictated by the venue.  Please expect the moderator to keep things moving.
 
 | Time (pm) | Description |
 |-|-|
 | 6:30 | Doors open for board members to setup |
 | 6:45 | Doors open for everybody else |
-| 6:50 | Call to order.  President's presentation. |
-| 7:10 | Treasurer presents the budget for 9 June - 31 December 2025.  Budget Q&A. |
-| 7:25 | Elect 3 board members.  Candidates will get a short time to make their pitch. |
+| 6:50 | Call to order.  President's presentation.  Q&A, time permitting. |
+| 7:20 | Treasurer presents the budget for 9 June - 31 December 2025.  Budget Q&A. |
+| 7:30 | Elect 3 board members.  Candidates will get a short time to make their pitch. |
 | 8:00 | Election results, general Q&A, and new business, if any. |
 
 ### Proxy Voting
