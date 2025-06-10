@@ -6,7 +6,7 @@ This is the website for the Beachwood subdivision of Wake County, NC.  This webs
 
 ## Membership meeting
 
-Our next membership meeting will occur on **9 June 2025**.  Notice of the meeting was mailed on May 22nd.
+Thank you to everybody who attended our membership meeting on 9 June 2025.  We will send out an update to the community later in June.  The next membership meeting will occur in November 2025.
 
 - [meeting details](membership_meeting.md)
 
@@ -36,7 +36,7 @@ The board is in the process of retrieving documents from our outgoing property m
 
 ## Board Members
 
-The HOA is a NC not-for-profit entity.
+The HOA is a NC not-for-profit entity.  Board members serve a term of 2 years.
 
 | Board Member | Postion | Last Election |
 |-|-|-|
@@ -44,8 +44,9 @@ The HOA is a NC not-for-profit entity.
 | Susan Bastien | Secretary & Treasurer | November 2023 |
 | Perri Davenport | | November 2023 |
 | Mohammed Hazin | | November 2023 |
+| Clyde Thompson | | June 2025 |
 
-The 5th board seat and Vice President position is currently vacant.
+The Vice President position is currently vacant and will be designated at the next board meeting.  Clyde was elected to fill a vacancy.  All board seats will be open in November 2025.
 
 ### Links for board members
 
