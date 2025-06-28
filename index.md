@@ -32,7 +32,7 @@ The assessment for 2025 is $243.  Please send a check or money order payable to 
 
 The board is in the process of retrieving documents from our outgoing property manager.  All public documents, including board meeting minutes, should be available soon.
 
-- [Beachwood HOA public Google Drive](https://drive.google.com/drive/folders/1_-tm8V_nUE70x1_UTEimFcTi776MbLtS?usp=sharing)
+- [Beachwood HOA public Google Drive](https://drive.google.com/drive/folders/1_-tm8V_nUE70x1_UTEimFcTi776MbLtS?usp=drive_link)
 
 ## Board Members
 
@@ -42,13 +42,14 @@ The HOA is a NC not-for-profit entity.  Board members serve a term of 2 years.
 |-|-|-|
 | David Kalbfleisch | President | November 2023 |
 | Susan Bastien | Secretary & Treasurer | November 2023 |
-| Perri Davenport | | November 2023 |
+| Perri Davenport | Vice President | November 2023 |
 | Mohammed Hazin | | November 2023 |
 | Clyde Thompson | | June 2025 |
 
-The Vice President position is currently vacant and will be designated at the next board meeting.  Clyde was elected to fill a vacancy.  All board seats will be open in November 2025.
+Clyde was elected to fill a vacancy.  All board seats will be open in November 2025.
 
 ### Links for board members
 
 - [Project board](https://github.com/users/kalbfled/projects/1)
 - [Knowledge repository](https://github.com/kalbfled/beachwood-hoa)
+- [Beachwood HOA private Google Drive](https://drive.google.com/drive/folders/1FTfRWxEOffus-xh-Zg0sHXluXewCWweB?usp=drive_link)
