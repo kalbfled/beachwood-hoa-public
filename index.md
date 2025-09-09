@@ -4,11 +4,10 @@
 
 This is the website for the Beachwood subdivision of Wake County, NC.  This website, the occasional mailing, and the e-mail address below are the only official communication channels for our HOA.  We do not use any "social media" site, and we do not deploy newsletters around the neighborhood.
 
-## Membership meeting
+## News
 
-Thank you to everybody who attended our membership meeting on 9 June 2025.  We will send out an update to the community later in June.  The next membership meeting will occur in November 2025.
-
-- [meeting details](membership_meeting.md)
+- Strict covenant enforcement&ndash;particularly as it concerns parking&ndash;resumes on 1 October 2025.  Please read the [September Newsletter](https://drive.google.com/file/d/1_BPEEH8AAY6GXagRj1WZ5ZmLP6PUNcJA/view?usp=drive_link) for details.
+- Thank you to everybody who attended our membership meeting on 9 June 2025.  The next membership meeting will occur in November 2025.
 
 ## Contact Information
 
@@ -26,11 +25,11 @@ Knightdale, NC 27545
 
 ## HOA dues
 
-The assessment for 2025 is $243.  Please send a check or money order payable to "Beachwood Homeowners Association, Inc." to the above mailing address.  The HOA is not currently accepting online payments, but that will become an option again in the not distant future.
+The annual assessment for 2025 is $243.  Please send a check or money order payable to "Beachwood Homeowners Association, Inc." to the above mailing address.
 
 ## Documents and Records
 
-The board is in the process of retrieving documents from our outgoing property manager.  All public documents, including board meeting minutes, should be available soon.
+Public documents, including board meeting minutes, governing documents, architectural forms, notices, and more are available here.
 
 - [Beachwood HOA public Google Drive](https://drive.google.com/drive/folders/1_-tm8V_nUE70x1_UTEimFcTi776MbLtS?usp=drive_link)
 
