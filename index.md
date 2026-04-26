@@ -285,6 +285,7 @@ body { background: var(--c-bg); }
   <a href="#dues">Dues</a>
   <a href="#violations">Violations</a>
   <a href="#documents">Documents</a>
+  <a href="membership_meeting">Meetings</a>
   <a href="#board">Board</a>
 </nav>
 
@@ -324,7 +325,7 @@ body { background: var(--c-bg); }
 
 <div class="card" id="documents">
   <p class="card-title">Documents &amp; Records</p>
-  <p>Public documents &mdash; board meeting minutes, governing documents, architectural forms, notices, and more &mdash; are available on Google Drive.</p>
+  <p>Public documents &mdash; board meeting minutes, governing documents, architectural forms, notices, and more &mdash; are available on Google Drive. Membership meeting details, including agendas, proxy voting, and budget summaries, are on the <a href="membership_meeting">Meetings page</a>.</p>
   <a class="btn" href="https://drive.google.com/drive/folders/1_-tm8V_nUE70x1_UTEimFcTi776MbLtS?usp=drive_link">
     View public documents <span class="btn-arrow">&rarr;</span>
   </a>
