@@ -28,7 +28,7 @@ body { background: var(--c-bg); }
   padding: 16px 0 24px;
 }
 .hoa-logo img {
-  max-width: 150px;
+  max-width: 240px;
   height: auto;
   border-radius: 50%;
   box-shadow: 0 4px 20px rgba(0,0,0,0.15);
@@ -223,6 +223,28 @@ body { background: var(--c-bg); }
   border: 1px solid var(--c-badge-border);
 }
 
+/* --- Intro banner --- */
+.intro-banner {
+  background: linear-gradient(135deg, var(--c-primary) 0%, var(--c-primary-dark) 100%);
+  border-radius: var(--radius);
+  box-shadow: 0 2px 8px rgba(21,120,120,0.25);
+  padding: 22px 32px;
+  margin-bottom: 20px;
+  color: #fff;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+.intro-banner strong {
+  display: block;
+  font-size: 1.05rem;
+  font-weight: 700;
+  margin-bottom: 4px;
+  letter-spacing: 0.01em;
+}
+@media (max-width: 620px) {
+  .intro-banner { padding: 18px 20px; }
+}
+
 /* --- Board links disclosure --- */
 .board-links {
   margin-top: 18px;
@@ -250,6 +272,11 @@ body { background: var(--c-bg); }
 
 <div class="hoa-logo">
   <img src="Beachwood_logo.jpg" alt="Beachwood duck logo">
+</div>
+
+<div class="intro-banner">
+  <strong>Beachwood Homeowners Association, Inc.</strong>
+  This is the website for the Beachwood subdivision of Wake County, NC.
 </div>
 
 <nav class="page-nav">
@@ -285,7 +312,7 @@ body { background: var(--c-bg); }
     <p class="card-title">HOA Dues</p>
     <div class="dues-amount">$243</div>
     <div class="dues-label">Annual assessment &mdash; 2026</div>
-    <p class="dues-instructions">Send a check or money order payable to &ldquo;Beachwood Homeowners Association, Inc.&rdquo; to the mailing address.</p>
+    <p class="dues-instructions">Send a check or money order payable to &ldquo;Beachwood Homeowners Association, Inc.&rdquo; to the mailing address. Please include your <strong>property address</strong> in the memo line.</p>
   </div>
 
 </div>
@@ -321,7 +348,7 @@ body { background: var(--c-bg); }
       <tr><td>Perri Davenport</td><td><span class="badge">Member</span></td></tr>
     </tbody>
   </table>
-  <details class="board-links">
+  <details class="board-links" open>
     <summary>Board member links</summary>
     <ul>
       <li><a href="https://github.com/users/saljinlr/projects/1">Project board</a></li>
