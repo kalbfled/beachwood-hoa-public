@@ -345,7 +345,7 @@ body { background: var(--c-bg); }
       <tr><td>Clyde Thompson</td><td><span class="badge">President</span></td></tr>
       <tr><td>Justin Murphy</td><td><span class="badge">Vice President</span></td></tr>
       <tr><td>Sal LaRocca</td><td><span class="badge">Treasurer</span></td></tr>
-      <tr><td>Rob Jones</td><td><span class="badge">Secretary</span></td></tr>
+      <tr><td>Dixie Jones</td><td><span class="badge">Secretary</span></td></tr>
       <tr><td>Perri Davenport</td><td><span class="badge">Member</span></td></tr>
     </tbody>
   </table>
